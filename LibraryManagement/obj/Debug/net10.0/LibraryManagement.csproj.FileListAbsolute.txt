@@ -1,0 +1,14 @@
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/bin/Debug/net10.0/LibraryManagement
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/bin/Debug/net10.0/LibraryManagement.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/bin/Debug/net10.0/LibraryManagement.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/bin/Debug/net10.0/LibraryManagement.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/bin/Debug/net10.0/LibraryManagement.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/refint/LibraryManagement.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/LibraryManagement.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/LibraryManagement/obj/Debug/net10.0/ref/LibraryManagement.dll

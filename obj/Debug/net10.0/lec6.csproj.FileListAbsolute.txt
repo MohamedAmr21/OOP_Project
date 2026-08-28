@@ -1,0 +1,91 @@
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/lec6/obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec6/obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7/obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec7(b) /obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8/obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/bin/Debug/net10.0/lec6
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/bin/Debug/net10.0/lec6.deps.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/bin/Debug/net10.0/lec6.runtimeconfig.json
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/bin/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/bin/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.pdb
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/lec6.genruntimeconfig.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/lec8 (copy)/obj/Debug/net10.0/ref/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.GeneratedMSBuildEditorConfig.editorconfig
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.AssemblyInfoInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.AssemblyInfo.cs
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.csproj.CoreCompileInputs.cache
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/refint/lec6.dll
+/home/mohamed/Desktop/Moahmed playground/dotnet-diploma/Instructor/OOP_Project/obj/Debug/net10.0/lec6.pdb
